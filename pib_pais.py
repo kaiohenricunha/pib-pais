@@ -125,7 +125,7 @@ def opcoes():
   print('Digite 2 para exibir a variação do PIB de todos os países entre 2013 e 2020')
   print('Digite 3 para exibir o gráfico de evolução do PIB de um país')
   print('==============================================================\n')
-  opcao = input('Informe sua opção: ')
+  opcao = input('Informe sua a opção desejada: ')
 
   if opcao == '1':
     exibir_PIB_pais()
