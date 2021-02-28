@@ -1,2 +1,2 @@
 # pib-pais
- Código em Python /Pandas que trabalha com uma lista de países/pibs
+ Código em Python com Pandas que exibe algumas informações relacionadas aos PIBs de uma lista de países
